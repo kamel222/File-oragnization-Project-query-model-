@@ -1,0 +1,30 @@
+C:\Users\Ahmed\source\repos\FileProject\FileProject\bin\Debug\FileProject.exe.config
+C:\Users\Ahmed\source\repos\FileProject\FileProject\bin\Debug\FileProject.exe
+C:\Users\Ahmed\source\repos\FileProject\FileProject\bin\Debug\FileProject.pdb
+C:\Users\Ahmed\source\repos\FileProject\FileProject\obj\Debug\FileProject.csprojAssemblyReference.cache
+C:\Users\Ahmed\source\repos\FileProject\FileProject\obj\Debug\FileProject.Form1.resources
+C:\Users\Ahmed\source\repos\FileProject\FileProject\obj\Debug\FileProject.Properties.Resources.resources
+C:\Users\Ahmed\source\repos\FileProject\FileProject\obj\Debug\FileProject.csproj.GenerateResource.cache
+C:\Users\Ahmed\source\repos\FileProject\FileProject\obj\Debug\FileProject.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\source\repos\FileProject\FileProject\obj\Debug\FileProject.exe
+C:\Users\Ahmed\source\repos\FileProject\FileProject\obj\Debug\FileProject.pdb
+C:\Users\Rama2\Desktop\FileProject\FileProject\bin\Debug\FileProject.exe.config
+C:\Users\Rama2\Desktop\FileProject\FileProject\bin\Debug\FileProject.exe
+C:\Users\Rama2\Desktop\FileProject\FileProject\bin\Debug\FileProject.pdb
+C:\Users\Rama2\Desktop\FileProject\FileProject\obj\Debug\FileProject.csprojAssemblyReference.cache
+C:\Users\Rama2\Desktop\FileProject\FileProject\obj\Debug\FileProject.Form1.resources
+C:\Users\Rama2\Desktop\FileProject\FileProject\obj\Debug\FileProject.Properties.Resources.resources
+C:\Users\Rama2\Desktop\FileProject\FileProject\obj\Debug\FileProject.csproj.GenerateResource.cache
+C:\Users\Rama2\Desktop\FileProject\FileProject\obj\Debug\FileProject.csproj.CoreCompileInputs.cache
+C:\Users\Rama2\Desktop\FileProject\FileProject\obj\Debug\FileProject.exe
+C:\Users\Rama2\Desktop\FileProject\FileProject\obj\Debug\FileProject.pdb
+E:\projects are done\File oragnization Project(query model)\FileProject\bin\Debug\FileProject.exe.config
+E:\projects are done\File oragnization Project(query model)\FileProject\bin\Debug\FileProject.exe
+E:\projects are done\File oragnization Project(query model)\FileProject\bin\Debug\FileProject.pdb
+E:\projects are done\File oragnization Project(query model)\FileProject\obj\Debug\FileProject.csprojAssemblyReference.cache
+E:\projects are done\File oragnization Project(query model)\FileProject\obj\Debug\FileProject.Form1.resources
+E:\projects are done\File oragnization Project(query model)\FileProject\obj\Debug\FileProject.Properties.Resources.resources
+E:\projects are done\File oragnization Project(query model)\FileProject\obj\Debug\FileProject.csproj.GenerateResource.cache
+E:\projects are done\File oragnization Project(query model)\FileProject\obj\Debug\FileProject.csproj.CoreCompileInputs.cache
+E:\projects are done\File oragnization Project(query model)\FileProject\obj\Debug\FileProject.exe
+E:\projects are done\File oragnization Project(query model)\FileProject\obj\Debug\FileProject.pdb
